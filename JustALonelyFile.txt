@@ -1,4 +1,5 @@
 
 I'm just a lonely file in this repository
 
-My sole existence is just a proof that conflicts can be solved at Solvd, it just requires time.
+My sole existence is just a little proof that conflicts can be solved at Solvd.
+

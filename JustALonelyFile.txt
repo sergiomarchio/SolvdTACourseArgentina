@@ -3,3 +3,4 @@ I'm just a lonely file in this repository
 
 My sole existence is just a little proof that conflicts can be solved at Solvd.
 
+This is the beginning of a new line of thought.

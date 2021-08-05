@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 I'm just a lonely file in this repository
 
@@ -6,6 +7,14 @@ My sole existence is just a little proof that conflicts can be solved at Solvd.
 
 Some changes to solve conflicts..
 
+=======
+
+I'm just a lonely file in this repository
+
+My sole existence is just a little proof that conflicts can be solved at Solvd.
+
+This is the beginning of a new line of thought.
+>>>>>>> d5cb91c3636cb0a2fed13bd73cda344b6ef8eccb
 =======
 
 I'm just a lonely file in this repository
